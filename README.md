@@ -37,5 +37,5 @@ interactive interface with buttons for addition, subtraction, multiplication, an
 operations. The calculator should have a display screen to show user input and results. Utilize
 CSS grid system for button alignments. Use event listeners, if-else statements, operators, and
 loops to handle user input and perform calculations. This project requires some skill but can be
-done with basic knowledge of these technologies..
+done with basic knowledge of these technologies.
 Live Site - https://basic-calclator.netlify.app
