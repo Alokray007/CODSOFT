@@ -1,0 +1,3 @@
+#Simple-Calculator
+
+I designed a user-friendly calculator using HTML, CSS, and JavaScript. This project allowed me to incorporate essential calculator features, such as addition, subtraction, multiplication, and division. I focused on creating an intuitive user interface for a seamless user experience, with clickable buttons for input and dynamic display of results. By implementing event listeners, I learned how to capture user interactions and process calculations in real-time. This project also enhanced my HTML and CSS skills, enabling me to style the calculator for a polished look. Overall, it was a valuable learning experience in web development.
